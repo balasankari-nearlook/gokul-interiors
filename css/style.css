@@ -1426,6 +1426,7 @@ select:focus {
 .header-contact-info li .single-item .text p{
     line-height: 18px;
     margin: 6px 0 0;
+    font-size: 13px;
 }
 
 .header-social-links-style1 {
@@ -1490,7 +1491,7 @@ select:focus {
 }
 .main-slider .slide-content .big-title{
 	position: relative;
-	color: #ffffff;
+	color: #0a0a0a;
 	font-size: 72px;
 	line-height: 1.1em;
 	font-weight: 700;
@@ -1500,7 +1501,7 @@ select:focus {
 .main-slider .slide-content .text{
 	position: relative;
     display: block;
-	color: #ffffff;
+	color: #070606;
 	font-size: 18px;
 	line-height: 1.5em;
 	font-weight: 400;
@@ -1549,7 +1550,7 @@ select:focus {
 }
 .main-slider.style2 .slide-content .big-title{
 	position: relative;
-	color: #ffffff;
+	color: #070606;
 	font-size: 60px;
 	line-height: 1.2em;
 	font-weight: 500;
